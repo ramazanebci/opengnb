@@ -1,7 +1,5 @@
 # OpenGNB
-
 [Chinese](/README_CN.md) [English](/README.md)
-
 *Note: Most of the content of this article is translated by Google translate from the Chinese version of the "OpenGNB User Manual", the content of this article is subject to the Chinese version.*
 
 [OpenGNB](https://github.com/gnbdev/opengnb "OpenGNB") is an open source P2P decentralized Software Defined Virtual Network with extreme intranet penetration capability,Allows you to combine your company-home network into a direct-access LAN.
